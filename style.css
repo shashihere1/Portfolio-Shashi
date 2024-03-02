@@ -145,4 +145,15 @@ div{
             .section-content {
                 padding: 8px;
             }
+
+            main {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .section-btn,
+            .section-content {
+                width: 100%;
+            }
         }
