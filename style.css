@@ -132,3 +132,17 @@ div{
 .navbar-links li {
     padding: 0 10px;
 }
+
+ @media screen and (max-width: 600px) {
+            header {
+                font-size: 1.5em;
+            }
+
+            .section-btn {
+                padding: 8px;
+            }
+
+            .section-content {
+                padding: 8px;
+            }
+        }
