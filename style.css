@@ -29,7 +29,6 @@ main {
 
 #projects-content a {
     color: black; 
-    text-decoration: none; 
     transition: color 0.3s ease;
 }
 
