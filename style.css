@@ -27,6 +27,17 @@ main {
   padding: 20px;
 }
 
+#projects-content a {
+    color: black; 
+    text-decoration: none; 
+    transition: color 0.3s ease;
+}
+
+#projects-content a:hover {
+    color: blue; 
+}
+
+
 
 
 .section-btn {
